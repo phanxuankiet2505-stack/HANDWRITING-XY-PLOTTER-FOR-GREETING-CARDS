@@ -25,3 +25,9 @@ HANDWRITING-XY-PLOTTER-FOR-GREETING-CARDS/
 ├── Grbl_Esp32-main/      # Customized GRBL_Esp32-main motion control firmware
 ├── WebUI/                # Custom browser-based UI (writer.html) for microSD card
 └── README.md             # Project documentation and setup guide
+
+---
+
+## 4. Images of the machine
+<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/8f6c6ae9-052e-4140-a9c6-c4ef0b43fc30" />
+
