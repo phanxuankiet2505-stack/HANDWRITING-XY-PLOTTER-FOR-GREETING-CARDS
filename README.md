@@ -29,9 +29,9 @@ HANDWRITING-XY-PLOTTER-FOR-GREETING-CARDS/
 ---
 
 ## 4. Images of machine
-Image of PCB
+### Image of PCB
 <img width="754" height="603" alt="image" src="https://github.com/user-attachments/assets/0954a3c3-0951-43a2-bace-74e5367e777b" />
-Image of the machine
+### Image of the machine
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/25d3e8e7-79c3-4958-91b8-64469bf06dd3" />
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/62d4824d-eba3-4eeb-9f58-57c3f409730f" />
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/ec5843de-02c8-434e-b964-d64b23811a94" />
