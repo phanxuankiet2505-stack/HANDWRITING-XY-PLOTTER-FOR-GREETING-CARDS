@@ -30,7 +30,10 @@ HANDWRITING-XY-PLOTTER-FOR-GREETING-CARDS/
 
 ## 4. Images of machine
 ### Image of PCB
-<img width="754" height="603" alt="image" src="https://github.com/user-attachments/assets/0954a3c3-0951-43a2-bace-74e5367e777b" />
+### Electronics Design (Schematic & Custom PCB)
+| Schematic Diagram | Fabricated PCB (Assembled) |
+| :---: | :---: |
+| <img width="1025" height="701" alt="image" src="https://github.com/user-attachments/assets/aaad330f-12e2-44c8-b8b1-dadc2430bad5" /> | <img width="754" height="603" alt="image" src="https://github.com/user-attachments/assets/0954a3c3-0951-43a2-bace-74e5367e777b" /> |
 ### Image of the machine
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/25d3e8e7-79c3-4958-91b8-64469bf06dd3" />
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/62d4824d-eba3-4eeb-9f58-57c3f409730f" />
