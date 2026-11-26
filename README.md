@@ -35,7 +35,7 @@ HANDWRITING-XY-PLOTTER-FOR-GREETING-CARDS/
 | :---: | :---: |
 | <img width="1025" height="701" alt="image" src="https://github.com/user-attachments/assets/aaad330f-12e2-44c8-b8b1-dadc2430bad5" /> | <img width="754" height="603" alt="image" src="https://github.com/user-attachments/assets/0954a3c3-0951-43a2-bace-74e5367e777b" /> |
 ### Mechanical Assembly & Prototype
-| Overall View | Z-Axis & Pen Mechanism | Dual-Motor Y-Axis |
+| Back View | Electrical Layout | Front View |
 | :---: | :---: | :---: |
 | <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/25d3e8e7-79c3-4958-91b8-64469bf06dd3" /> | <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/62d4824d-eba3-4eeb-9f58-57c3f409730f" /> | <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/ec5843de-02c8-434e-b964-d64b23811a94" /> |
 
