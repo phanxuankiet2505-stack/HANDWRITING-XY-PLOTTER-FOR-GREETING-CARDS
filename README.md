@@ -38,6 +38,11 @@ HANDWRITING-XY-PLOTTER-FOR-GREETING-CARDS/
 | Back View | Electrical Layout | Front View |
 | :---: | :---: | :---: |
 | <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/25d3e8e7-79c3-4958-91b8-64469bf06dd3" /> | <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/62d4824d-eba3-4eeb-9f58-57c3f409730f" /> | <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/ec5843de-02c8-434e-b964-d64b23811a94" /> |
+### WebUI
+| WebUI | Result |
+| :---: | :---: |
+| <img width="1306" height="589" alt="image" src="https://github.com/user-attachments/assets/8bcc6184-7294-47b4-a43e-d7cf50cdbd2a" /> | <img width="386" height="503" alt="image" src="https://github.com/user-attachments/assets/756c21b7-5e50-4a2d-8a78-c76e794c76a8" />
+ |
 
 
 
