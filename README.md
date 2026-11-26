@@ -43,6 +43,11 @@ HANDWRITING-XY-PLOTTER-FOR-GREETING-CARDS/
 | :---: | :---: |
 | <img width="1306" height="589" alt="image" src="https://github.com/user-attachments/assets/8bcc6184-7294-47b4-a43e-d7cf50cdbd2a" /> | <img width="386" height="503" alt="image" src="https://github.com/user-attachments/assets/756c21b7-5e50-4a2d-8a78-c76e794c76a8" />
  |
+### Video of the machine in operation
+https://github.com/user-attachments/assets/d6c9e717-7084-4cf4-b3f4-ed466cf1648a
+
+
+
 
 
 
